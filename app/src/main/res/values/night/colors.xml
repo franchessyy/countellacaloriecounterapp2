@@ -1,0 +1,10 @@
+<resources>
+    <!-- Define colorPrimaryVariant for night mode -->
+    <color name="colorPrimaryVariant">#C2185B</color> <!-- Example color for night mode -->
+
+    <!-- Other color definitions -->
+    <color name="colorPrimary">#FF4081</color>
+    <color name="colorSecondary">#FF80AB</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnSecondary">#000000</color>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <!-- Add all the strings required in your app -->
+
+    <string name="invalid_calories">Please enter valid calories</string>
+    <string name="empty_field">Field cannot be empty</string>
+    <string name="total_calories">Total Calories: %1$d</string>
+    <string name="calorie_deficit">You are in a calorie deficit! ♡♡ </string>
+    <string name="calorie_goal_reached">You have reached your calorie goal! 🎉 </string>
+
+    <!-- New string for exercise calories error -->
+    <string name="invalid_exercise_calories">Please enter valid exercise calories</string>
+</resources>

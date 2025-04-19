@@ -1,0 +1,16 @@
+<!-- res/values/styles.xml -->
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application style -->
+    <style name="Base.AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Example: Customizing ActionBar or other components -->
+        <!-- <item name="actionBarStyle">@style/CustomActionBar</item> -->
+    </style>
+
+    <!-- Example custom ActionBar -->
+    <style name="CustomActionBar" parent="Widget.MaterialComponents.Toolbar.Primary">
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:titleTextColor">@android:color/white</item>
+    </style>
+
+</resources>

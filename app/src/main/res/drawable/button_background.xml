@@ -1,0 +1,5 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FF4081" /> <!-- Pink color -->
+    <corners android:radius="16dp" /> <!-- Slightly rounded corners -->
+    <stroke android:color="#FF80AB" android:width="2dp" /> <!-- Outer pink border -->
+</shape>

@@ -1,0 +1,25 @@
+<resources>
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#FF69B4</color> <!-- Light Pink for Day -->
+    <color name="colorPrimaryVariant">#FF1493</color> <!-- Dark Pink for Day -->
+    <color name="colorOnPrimary">#FFFFFF</color> <!-- White text on primary color for Day -->
+
+    <!-- Secondary Colors -->
+    <color name="colorSecondary">#FF66B2</color> <!-- Light Secondary for Day -->
+    <color name="colorOnSecondary">#FFFFFF</color> <!-- White text on secondary color for Day -->
+
+    <!-- Background Colors -->
+    <color name="backgroundColor">#FFFFFF</color> <!-- White background for Day -->
+
+    <!-- Night Mode Colors -->
+    <color name="colorPrimaryNight">#D500F9</color> <!-- Purple for Night -->
+    <color name="colorPrimaryVariantNight">#9C1EFF</color> <!-- Darker Purple for Night -->
+    <color name="colorOnPrimaryNight">#FFFFFF</color> <!-- White text on primary for Night -->
+
+    <color name="colorSecondaryNight">#7B1FA2</color> <!-- Dark Purple for Night -->
+    <color name="colorOnSecondaryNight">#FFFFFF</color> <!-- White text on secondary for Night -->
+
+    <!-- Background Colors for Night -->
+    <color name="backgroundColorNight">#121212</color> <!-- Dark background for Night -->
+
+</resources>
